@@ -3,4 +3,14 @@
 }
 .carousel-child-1{
     background-image: linear-gradient(rgba(104, 104, 104, .5),rgba(104, 104, 104, .5)), url('../images/cover/cover-1.png');
+    height: 500px;
+}
+.carousel-child-2{
+    background-image: linear-gradient(rgba(57, 55, 55, .5),rgba(57, 55, 55, .5)), url('../images/cover/cover-2.jpg');
+    height: 500px;
+}
+.carousel-child-3{
+    background-image: linear-gradient(rgba(57, 55, 55, .5),rgba(57, 55, 55, .5)), url('../images/cover/cover-3.jpg');
+    height: 500px;
+    background-size: cover;
 }
