@@ -1,0 +1,6 @@
+.carousel-main{
+    height: 550px;
+}
+.carousel-child-1{
+    background-image: linear-gradient(rgba(104, 104, 104, .5),rgba(104, 104, 104, .5)), url('../images/cover/cover-1.png');
+}
